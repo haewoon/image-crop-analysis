@@ -11,5 +11,5 @@ The original code is from [Twitter research repo](https://github.com/twitter-res
 
 # Instructions
 
-Open as Google Colab.
+Click [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haewoon/lab-image-crop-analysis/blob/master/notebooks/Lab%20-%20Image%20Crop%20Analysis.ipynb)
 
